@@ -1,0 +1,5 @@
+# Data Quality
+
+- Relates to the reliability and consistency of data as it moves through the solution.
+- Covers the profiling and assessment of source data quality, the definition of quality rules and thresholds the solution must meet, and the approach to handling records that fail those checks. Also covers master data management and probabilistic matching where data across systems cannot be joined using common identifiers, and whether an ongoing data quality monitoring framework is needed to track quality over time.
+- Related subjects are Data Modelling (Data & AI), which covers how data quality issues affect the design of transformation logic, Data Ownership (Data & AI), which covers the accountability structures that determine who is responsible for resolving quality issues, and AI Readiness (Data & AI), which covers the minimum data quality requirements for AI workloads.

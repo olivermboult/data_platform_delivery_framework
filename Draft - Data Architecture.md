@@ -1,0 +1,5 @@
+# Data Architecture
+
+- Relates to the structural design of the data platform and how data transitions through it.
+- Covers the layering approach, naming conventions, the separation of data layers, schema evolution, and the principles that govern how the platform is built and extended over time. Also covers the handling of historical data within the architecture and the integration of third-party or internal tools with the data platform.
+- Related subjects are Technology Platform (Platform & Security), which covers the platform within which the architecture is implemented, Data Sources & Ingestion (Data & AI), which covers the source system characteristics that influence architectural decisions, and Data Modelling (Data & AI), which covers the logical design of data structures built within the architecture.

@@ -1,0 +1,5 @@
+# AI Governance & Ethics
+
+- Relates to the controls and principles that govern how AI is developed and used within the solution.
+- Covers transparency, fairness, explainability, and the management of bias, the policies that define acceptable use of AI across the organisation, and any regulatory obligations relevant to AI use in the customer's sector. Also covers the process for reviewing and approving AI model outputs before they reach production and the involvement of compliance or data protection functions in reviewing the governance framework.
+- Related subjects are AI Model Development (Data & AI), which covers the model approval processes that governance controls apply to, and Data Protection (Platform & Security), which covers the data handling obligations that intersect with AI governance, particularly where personal data is used in model training or automated decision-making.

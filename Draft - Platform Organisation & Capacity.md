@@ -1,0 +1,5 @@
+# Platform Organisation & Capacity
+
+- Relates to how the data platform is organised and resourced at an infrastructure level.
+- Covers the allocation, sizing, and governance of compute capacity, the logical separation of workspaces, the grouping of resources into domains, and the naming conventions applied across each. Also covers administrative access to capacities, workspaces, and domains, the scaling and pausing of capacity in line with workload patterns, and any tenant-level policies that affect how the platform can be configured.
+- Related subjects are Development & Deployment (Platform & Security), which covers how workspace structure supports the separation of development, test, and production environments, and Technology Platform (Platform & Security), which covers the platform and licensing model within which capacity and workspace management operates.

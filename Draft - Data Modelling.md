@@ -1,0 +1,5 @@
+# Data Modelling
+
+- Relates to the logical design of how data is structured and related within each layer of the platform.
+- Covers the entities, attributes, and relationships that define how raw data is transformed into a form that supports reporting and analysis, including the design of silver, gold, and semantic layers or their equivalents. Also covers the application of calculated fields and business logic within the model, change capture, and the documentation of modelling decisions to support future development.
+- Related subjects are Data Quality (Data & AI), which covers the quality of source data that transformation logic must account for, AI Model Development (Data & AI), which covers the data structures that AI models are built and trained against, and Report Creation (Reporting & Analysis), which covers the semantic layer and dataset structures that report creators build against.

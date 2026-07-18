@@ -1,0 +1,5 @@
+# Change Management & Adoption
+
+- Relates to the organisational changes required alongside the technical delivery and the steps taken to ensure the solution is adopted and used effectively across the business.
+- Covers the identification of stakeholders affected by the change, the communication and engagement approach for each group, the management of resistance or concerns, and the activities required to embed new ways of working before and after go-live. Also covers adoption planning, including the definition of success measures for user uptake and the monitoring of adoption levels once the solution is live.
+- Related subjects are Strategic Objectives & Use Cases (Business & Operations), which defines the business outcomes that adoption activity must support, Knowledge Transfer & Capability (Business & Operations), which covers the training and handover activities that underpin effective adoption, and Operational Support (Business & Operations), which covers the post-live support structures that maintain confidence in the solution after go-live.

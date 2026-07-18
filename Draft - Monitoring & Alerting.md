@@ -1,0 +1,5 @@
+# Monitoring & Alerting
+
+- Relates to the visibility the team and the business have over what is happening within the data platform at any given time.
+- Covers the recording of platform activity across data and pipeline events, the alerting mechanisms that flag issues before they affect users, cost and budget monitoring, log retention, and the integration with any existing monitoring tooling within the customer's environment. Also covers whether a centralised monitoring dashboard is required and who the intended audience for that dashboard is.
+- Related subjects are Audit & Compliance (Platform & Security), which covers the audit trail requirements that inform what must be logged and for how long, and Platform Performance (Platform & Security), which covers the performance targets that monitoring must be configured to detect and report against.

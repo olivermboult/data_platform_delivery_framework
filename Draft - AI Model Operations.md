@@ -1,0 +1,5 @@
+# AI Model Operations
+
+- Relates to the operational practices that govern AI models in production.
+- Covers model versioning, deployment pipelines specific to AI models, the validation gates that must be passed before a model is promoted to production, performance monitoring, retraining schedules, and the processes for retiring or replacing models that degrade below agreed performance thresholds.
+- Related subjects are Environment Strategy and Deployments (Infrastructure & Security), which covers the broader deployment infrastructure within which AI model pipelines operate, AI Model Development (Data & AI), which covers the development and approval process that precedes model operationalisation, and AI Tools (Data & AI), which covers the platforms and frameworks that underpin MLOps processes.

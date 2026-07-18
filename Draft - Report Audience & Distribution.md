@@ -1,0 +1,5 @@
+# Report Audience & Distribution
+
+- Relates to how reports and dashboards are consumed across the business.
+- Covers the intended audience for each report, the distribution mechanisms required, concurrency and peak usage patterns, access requirements across different user groups, and whether any reports need to be accessible to external users outside the organisation. Also covers current adoption challenges within the existing reporting environment, and whether usage analytics are required to allow the business to track consumption and identify underused content.
+- Related subjects are Roles & Access (Platform & Security), which covers the access controls that govern who can view and interact with reports, and Reporting Performance (Reporting & Analysis), which covers the performance targets informed by audience size and usage patterns.

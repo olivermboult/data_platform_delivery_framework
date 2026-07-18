@@ -1,0 +1,5 @@
+# AI Model Development
+
+- Relates to the process of building, training, and validating AI and machine learning models within the solution.
+- Covers feature engineering, the selection of modelling approaches, training and evaluation against defined performance criteria, and the documentation of modelling decisions. Also covers the approval process by which a model is validated before it is handed over for operationalisation, including the involvement of business stakeholders in reviewing model outputs and confirming that the model meets the intended use case.
+- Related subjects are Data Quality (Data & AI), which covers the quality of data used for model training and validation, Data Modelling (Data & AI), which covers the data structures that AI models are built and trained against, AI Governance & Ethics (Data & AI), which covers the controls and approval processes that apply to model outputs, and AI Model Operations (Data & AI), which covers the operational practices that follow once a model has been approved for production.

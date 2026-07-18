@@ -1,0 +1,5 @@
+# Report Design
+
+- Relates to the visual and structural design of reports and dashboards before they are built.
+- Covers the definition of information hierarchies, the key questions each report must answer for its intended audience, the layout of key metrics and narratives, interactivity requirements such as filtering and drill-through, branding and design standards, responsive design considerations, and the validation of designs with business stakeholders before build begins.
+- Related subjects are Data Modelling (Data & AI), which covers the data structures that underpin the metrics and hierarchies defined during design, Report Creation (Reporting & Analysis), which covers how agreed designs inform the structures and datasets report creators build against, and Report Migration (Reporting & Analysis), which covers the existing reports that may serve as reference material during the design process.

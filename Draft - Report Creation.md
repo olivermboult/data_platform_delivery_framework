@@ -1,0 +1,5 @@
+# Report Creation
+
+- Relates to how reports are created within the reporting layer, including how users interact with data beyond pre-built reports.
+- Covers the tools and interfaces available to report creators, self-service reporting boundaries, the certified or endorsed dataset structures that report creators build against, report development standards, data latency and refresh requirements, and the process for promoting a self-service report into a governed organisation-wide report.
+- Related subjects are Data Modelling (Data & AI), which covers the semantic layer and dataset structures that underpin report creation, Knowledge Transfer & Capability (Business & Operations), which covers the capability of report creators and the training needed to support self-service adoption, and Report Design (Reporting & Analysis), which covers the agreed report designs that inform what report creators need to build against.

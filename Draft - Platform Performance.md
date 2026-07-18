@@ -1,0 +1,5 @@
+# Platform Performance
+
+- Relates to the performance of the data platform under normal and peak operating conditions.
+- Covers the expectations placed on the platform in terms of data refresh times, query response times, uptime, and the service level agreements the solution must meet or improve upon. Also covers the identification of performance bottlenecks, optimisation approaches, and the scheduling of platform processes in line with business requirements.
+- Related subjects are Reporting Performance (Reporting & Analysis), which covers the report load speed and concurrency expectations that depend on platform performance, Monitoring & Alerting (Platform & Security), which covers the monitoring mechanisms through which performance issues are detected, and AI Readiness (Data & AI), which covers the platform capability required to support AI workloads.

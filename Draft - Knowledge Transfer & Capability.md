@@ -1,0 +1,5 @@
+# Knowledge Transfer & Capability
+
+- Relates to the training, handover, and capability-building activities required to ensure the customer's team can operate, support, and develop the solution after delivery.
+- Covers the size and structure of the customer's internal team, their familiarity with the chosen platform, any training or upskilling needed, and whether the customer intends to build internal capability or rely on ongoing external support. Also covers the knowledge transfer process by which the delivery team hands over understanding of the solution to the customer's team.
+- Related subjects are Operational Support (Business & Operations), which covers how the solution will be supported in production and depends on the customer's internal capability to operate it, and Change Management & Adoption (Business & Operations), which covers the broader organisational change activities that knowledge transfer supports.

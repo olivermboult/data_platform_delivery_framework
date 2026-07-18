@@ -1,0 +1,5 @@
+# Business Continuity
+
+- Relates to the measures in place to ensure the solution can be restored following an unplanned failure or loss of service. 
+- Covers backup strategies, recovery time objectives, recovery point objectives, the processes by which the platform is restored to a working state, and any regulatory or contractual obligations that govern recovery timelines. Also covers the relationship between the solution and the customer's broader business continuity plan where the solution is considered business-critical.
+- Related subjects are Platform Performance (Platform & Security), which covers the uptime and service level expectations that business continuity planning must support, and Monitoring & Alerting (Platform & Security), which covers the monitoring mechanisms through which failures are detected and escalated.
